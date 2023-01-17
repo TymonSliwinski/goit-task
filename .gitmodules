@@ -1,0 +1,6 @@
+[submodule "box-creator"]
+	path = box-creator
+	url = https://github.com/TymonSliwinski/box-creator
+[submodule "infinite-scroll"]
+	path = infinite-scroll
+	url = https://github.com/TymonSliwinski/infinite-scroll
